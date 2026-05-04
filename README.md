@@ -1,8 +1,19 @@
 # Web Security Notes
 
-This repository contains my notes and practice from learning web security.
+This repository contains my notes and practice from PortSwigger Web Security Academy and Python learning.
 
-## Topics
+## Progress
+
+### Completed
+- SQL Injection (PortSwigger)
+- Server-side vulnerabilities (PortSwigger)
+
+### In Progress
+- API Testing
+- File Upload Vulnerabilities
+- XSS
+
+---
 
 ### SQL Injection
 - Basic techniques

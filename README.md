@@ -28,8 +28,11 @@ This repository contains my notes and practice from PortSwigger Web Security Aca
 ### API Testing
 - In progress
 
-### XSS (Cross-Site Scripting)
-- In progress
+## XSS
+- Refelcted XSS
+
+### Completed Labs (PortSwigger)
+- Reflected XSS into HTML context (no encoding)
 
 ---
 
